@@ -1,6 +1,5 @@
 #Discription:Take number as input and print all the prime numbers upto that number
-#Author:Hrishikesh M Bodake
-#Since:March 2 2020 /Monday
+#Author:Pratiksha C. Tamadalge.
 
 #!/bin/bash -x
 read -p "Enter start number of the range : " start
