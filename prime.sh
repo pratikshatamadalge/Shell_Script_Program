@@ -1,6 +1,5 @@
 #Discription:Find wether the number is prime or not
-#Author:Hrishikesh M Bodake
-#Since:March 2 2020 /Monday
+#Author:Pratiksha C. Tamadalge.
 
 #!/bin/bash -x
 flag=0
