@@ -1,6 +1,6 @@
 #Discription:temprature conversion using using functions
-#Author:Hrishikesh M Bodake
-#Since:March 3 2020 /Tuesday
+#Author:Pratiksha C. Tamadalge.
+
 
 #!/bin/bash -x
 function farenheitToCelcius(){
