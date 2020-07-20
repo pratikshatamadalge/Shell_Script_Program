@@ -1,6 +1,6 @@
 #Discription:Find wether the given year is leap or not
-#Author:Hrihikesh M Bodake
-#Since:February 29 2020 /Saturday
+#Author:Pratiksha C. Tamadalge.
+
 #!/bin/bash -x
 
 read -p "Enter the year: " year
