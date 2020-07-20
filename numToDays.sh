@@ -1,6 +1,5 @@
 #Dicription:Convert numbers to days 
-#Author:Hrishikesh M Bodake
-#Since:February 29 2020 /Saturday
+#Author:Pratiksha C. Tamadalge.
 
 #!/bin/bash -x
 read -p "Enter the Number from 1 to 7: " day
