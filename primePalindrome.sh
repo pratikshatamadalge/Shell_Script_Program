@@ -1,6 +1,5 @@
 #Discription:Check that  number is prime and check wether its palindrome for prime or not
-#Author:Hrishikesh M Bodake
-#Since:March 3 2020/Tuesday
+#Author:Pratiksha C. Tamadalge.
 
 #!/bin/bash -x
 reverse=0
