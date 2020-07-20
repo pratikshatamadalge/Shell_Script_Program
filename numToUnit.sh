@@ -1,6 +1,5 @@
 #Discription: Take number and print its equivalent unit
-#Author: Mr.Hrishikesh M Bodake
-#Since:February 29 2020 / Saturady
+#Author:Pratiksha C. Tamadalge.
 
 #!/bin/bash -x
 read -p "Enter the number to check: " unit
