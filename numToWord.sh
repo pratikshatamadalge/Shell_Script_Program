@@ -1,6 +1,5 @@
 #Discription: take number between 1 to 10 and convert it into word
-#Author: Mr.Hrishikesh M Bodake
-#Since:February 29 2020 /Saturday
+#Author:Pratiksha C. Tamadalge.
 
 #!/bin/bash -x
 read -p "Enter the number upto 10: " n
