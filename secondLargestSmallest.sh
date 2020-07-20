@@ -1,6 +1,7 @@
 #Discription:Find the second largest and second smallest in an array
 #Author:Pratiksha C. Tamadalge.
 
+
 #!/bin/bash -x
 declare -a arr
 function genrateRandom(){
