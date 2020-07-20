@@ -1,6 +1,6 @@
 #Discription:Enter the number and find all the prime factors of the number
-#Author:Hrishikesh M Bodake
-#Since:March 2 2020 /Monday
+#Author:Pratiksha C. Tamadalge.
+
 #!/bin/bash -x
 declare -a arr
 counter=0
