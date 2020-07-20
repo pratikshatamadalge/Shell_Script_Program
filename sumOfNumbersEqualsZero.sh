@@ -1,6 +1,6 @@
 #Discription:Find the elements thats sum equals to zero
-#Author:Hrishikesh M Bodake
-#Since:March 3 2020/Tuesday
+#Author:Pratiksha C. Tamadalge.
+
 #!/bin/bash -x
 declare -a arr
 flag=0
